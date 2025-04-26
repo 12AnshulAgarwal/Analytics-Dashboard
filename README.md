@@ -12,10 +12,6 @@ Built using Vite, React, TypeScript, Tailwind CSS, and shadcn/ui.
 
 https://analytics-dashboard-next-js.vercel.app/
 
-*(You can replace this with your custom domain once deployed.)*
-
----
-
 ## 🚀 Features
 
 ### ✅ Dashboard (Private)
