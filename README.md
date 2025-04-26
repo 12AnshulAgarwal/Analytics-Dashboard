@@ -10,7 +10,7 @@ Built using Vite, React, TypeScript, Tailwind CSS, and shadcn/ui.
 
 ## 🔗 Live Demo
 
-[https://love.dev/projects/e3add304-19f5-4dd4-a60b-1e69c8d412e9](https://love.dev/projects/e3add304-19f5-4dd4-a60b-1e69c8d412e9)
+https://analytics-dashboard-next-js.vercel.app/
 
 *(You can replace this with your custom domain once deployed.)*
 
